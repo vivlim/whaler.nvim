@@ -41,8 +41,8 @@ local config = {
         previewer = false,
         layout_config = {
             --preview_cutoff = 1000,
-            height =  0.3,
-            width = 0.4
+            height =  0.7,
+            width = 0.7
         },
         sorting_strategy = "ascending",
         border = true,
